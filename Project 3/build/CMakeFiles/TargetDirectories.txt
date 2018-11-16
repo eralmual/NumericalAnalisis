@@ -1,0 +1,16 @@
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/CMakeFiles/rebuild_cache.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/CMakeFiles/test.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/CMakeFiles/edit_cache.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/src/CMakeFiles/edit_cache.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/src/CMakeFiles/test.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/src/CMakeFiles/anpi.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/src/CMakeFiles/rebuild_cache.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/src/CMakeFiles/proyecto3.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/test/CMakeFiles/rebuild_cache.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/test/CMakeFiles/edit_cache.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/test/CMakeFiles/tester.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/test/CMakeFiles/test.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/benchmarks/CMakeFiles/rebuild_cache.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/benchmarks/CMakeFiles/edit_cache.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/benchmarks/CMakeFiles/benchmark.dir
+/media/erick/HDD/TEC/ANPI/P3/Project3/build/benchmarks/CMakeFiles/test.dir

@@ -1,0 +1,16 @@
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/CMakeFiles/test.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/src/CMakeFiles/anpi.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/src/CMakeFiles/placa.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/src/CMakeFiles/test.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/test/CMakeFiles/test.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/test/CMakeFiles/tester.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/benchmarks/CMakeFiles/rebuild_cache.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/benchmarks/CMakeFiles/test.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/benchmarks/CMakeFiles/edit_cache.dir
+/home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug/benchmarks/CMakeFiles/benchmark.dir

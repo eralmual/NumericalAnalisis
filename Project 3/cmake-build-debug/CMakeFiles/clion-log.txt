@@ -1,0 +1,30 @@
+/home/erick/Programs/JetBrains/apps/CLion/ch-0/182.4505.18/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/erick/Desktop/HDD/TEC/ANPI/P3/Project3
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   program_options
+-- Found OpenMP_CXX: -fopenmp  
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   program_options
+-- Found OpenMP_CXX: -fopenmp  
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   unit_test_framework
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+--   unit_test_framework
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/erick/Desktop/HDD/TEC/ANPI/P3/Project3/cmake-build-debug
